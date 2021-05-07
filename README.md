@@ -3,6 +3,8 @@
 
 Per questo compito esclusivamente didattico e senza nessun scopo di lucro ho pensato di "realizzare" un sito sulla cantautrice Katy Perry, vista la mia ammirazione per lei.
 
+***Questo progetto usa ASP.NET 5.0 e un DatabBbase identity FrameWork.***
+
 ***Il sito gestisce una minima auteticazione e registrazione degli utenti.*** 
 
 
