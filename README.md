@@ -10,5 +10,6 @@ Per questo compito esclusivamente didattico e senza nessun scopo di lucro ho pen
 
 Questa fanPage avrebbe dovuto fornire informazioni riguardo alla discografia della cantante e potuto concedere alle persone che si fossero registrate di acquistare dei biglietti per un concerto. 
 
+Link al sito : https://placuccigabriele.azurewebsites.net/
 
 > Il proggetto è incompleto !!!
